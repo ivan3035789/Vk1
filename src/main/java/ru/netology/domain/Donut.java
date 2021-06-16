@@ -1,0 +1,10 @@
+package ru.netology.domain;
+
+public class Donut {
+    private boolean isDonut;
+    private int paidDuration;
+    private boolean canPublishFreeCopy;
+    private String editMode;
+    private int placeholder;
+    // + get/set на все поля
+}
